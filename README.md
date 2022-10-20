@@ -4,6 +4,6 @@ Among various life-threatening diseases, heart disease has garnered a great deal
 
 Based on the factors responsbile for the heart disease, this dataset will give you answers on the following analysis:-
 
-Q1) Who has the highest risk of having heart disease?
+Q1) Who has the highest risk of having heart failure?
 
-Q2)
+Q2) Which factor is most likely responsible to have a heart failure?
